@@ -1,4 +1,5 @@
-# tic-tac-toe
-kalkulator ustvari ne znam kako promijenit ime
+# jednostavan kalkulator
 
-htio sam iks oks ali je previse prekomplikovano ai nije moja jaca strana
+jednostavan kalkulator
+
+moze sabirati, oduzimat, mnozit i dijelit
