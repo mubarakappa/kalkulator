@@ -130,7 +130,7 @@ namespace kalkulator
                 {
                     operation = '+';
                     operand1 = input;
-                    this.screen.Text = "";
+                    this.screen.Text = "0";
                     this.upscreen.Text = " + " + input;
                     input = string.Empty;
                 }
@@ -147,7 +147,7 @@ namespace kalkulator
                 {
                     operation = '-';
                     operand1 = input;
-                    this.screen.Text = "";
+                    this.screen.Text = "0";
                     this.upscreen.Text = " - " + input;
                     input = string.Empty;
                 }
@@ -163,7 +163,7 @@ namespace kalkulator
                 {
                     operation = '*';
                     operand1 = input;
-                    this.screen.Text = "";
+                    this.screen.Text = "0";
                     this.upscreen.Text = " * " + input;
                     input = string.Empty;
                 }
@@ -179,7 +179,7 @@ namespace kalkulator
                 {
                     operation = '/';
                     operand1 = input;
-                    this.screen.Text = "";
+                    this.screen.Text = "0";
                     this.upscreen.Text = " / " + input;
                     input = string.Empty;
                 }
