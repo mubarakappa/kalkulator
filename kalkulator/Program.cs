@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace tic_tac_toe
+namespace kalkulator
 {
     static class Program
     {
