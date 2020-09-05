@@ -2,4 +2,4 @@
 
 jednostavan kalkulator
 
-moze sabirati, oduzimat, mnozit i dijelit dva broja
+moze sabrat, oduzet, mnozit i dijelit dva broja
