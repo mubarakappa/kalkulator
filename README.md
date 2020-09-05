@@ -6,9 +6,7 @@ moze
 - sabrat
 - oduzet
 - mnozit 
-- dijelit 
-
-dva neka broja
+- dijelit dva neka broja
 
 
 [downloadiraj ovdje](https://github.com/mubarakappa/kalkulator/raw/master/kalkulator/bin/Release/kalkulator.exe)
