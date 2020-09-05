@@ -1,0 +1,10 @@
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\bin\Release\kalkulator.exe.config
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\bin\Release\kalkulator.exe
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\bin\Release\kalkulator.pdb
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.csprojAssemblyReference.cache
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.Form1.resources
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.Properties.Resources.resources
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.csproj.GenerateResource.cache
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.exe
+C:\Users\DT User9\source\repos\kalkulator\kalkulator\obj\Release\kalkulator.pdb
